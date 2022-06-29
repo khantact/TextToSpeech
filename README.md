@@ -13,4 +13,4 @@ Initial release
 
 ### Dependencies
 
-Say.js
+[Say.js](https://www.npmjs.com/package/say)
