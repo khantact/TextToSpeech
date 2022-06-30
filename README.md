@@ -6,6 +6,8 @@ Default filename is "toRead.txt", file must also be in root directory of vscode 
 
 ### Note: You must be within a workspace for it to work, the code will not work without the user being within a workspace and the toRead.txt file being at the root of the workspace
 
+### Note: In order to compile you need to have Node.js installed and within the terminal download the dependencies by doing npm install
+
 ## Release Notes
 
 ### 1.0.0
@@ -17,3 +19,7 @@ Initial release
 ### Dependencies
 
 [Say.js](https://www.npmjs.com/package/say)
+
+### Requirements
+
+Node.js
