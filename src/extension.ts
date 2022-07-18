@@ -15,7 +15,7 @@ export function activate(context: vscode.ExtensionContext) {
 			let text = document.getText();
 			say.speak(text)
 		})
-  })	
+  })
 
   let stop = vscode.commands.registerCommand('TextToSpeech.stop',() =>{
 	say.stop();
